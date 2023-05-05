@@ -1,0 +1,9 @@
+packages ou des bibliothèques Python necessaires:
+
+requests
+BeautifulSoup
+csv
+urljoin
+shutil
+os
+urllib
